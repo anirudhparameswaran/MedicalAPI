@@ -1,7 +1,7 @@
-# MedicalAPI
+## MedicalAPI
 AI models for medical imaging.
 
-1. Malaria Detection
+#1. Malaria Detection
 
 Files are uploaded in MalariaImaging sub-directory
 
